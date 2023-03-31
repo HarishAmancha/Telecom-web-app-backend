@@ -4,6 +4,7 @@ This is the backend for the telecom web app. It is a REST API that is used to co
 
 ## Installation
 - Install Python 3.9
+- (optional) conda create -n py39 python=3.9
 - Install poetry `pip install poetry`
 - Install dependencies `poetry install`
 - Install asyncmy `pip install asyncmy`
